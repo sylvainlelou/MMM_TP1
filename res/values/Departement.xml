@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resources>
+        <string-array name='departement'>
+            <item>Maine-et-loire</item>
+            <item>ile-et-vilaine</item>
+            <item>sarthe</item>
+            <item>vendée</item>
+        </string-array>
+    </resources>
